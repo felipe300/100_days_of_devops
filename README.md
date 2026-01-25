@@ -16,3 +16,8 @@ This project documents the challenge **100 Days of DevOps** of [KodeCloud](https
 - **IaC:** Terraform, Ansible
 - **CI/CD:** Jenkins, GitHub Actions
 - **Monitoring:** Prometheus, Grafana
+
+## Done
+
+- [x] Day 1: Linux User Setup with Non-Interactive Shell
+- [] Day 2: Temporary User Setup with Expiry
