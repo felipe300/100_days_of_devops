@@ -17,7 +17,35 @@ This project documents the challenge **100 Days of DevOps** of [KodeCloud](https
 - **CI/CD:** Jenkins, GitHub Actions
 - **Monitoring:** Prometheus, Grafana
 
-## Done
+## Nautilus Server
+
+KodeCloud will provide you with a Nautilus GitHub repository, please check that repo. There you will find a full list of users and servers to make the exercises.
+
+**Connect to server**
+
+Here, we will connect to "Server 1" with the user "tony", and with password "Ir0nM@n" as example. For more information check the list in Nautilus' repo.
+
+```sh
+# basic example
+> <user>@<hostname> # this is the basic prompt
+
+# check your host name
+> hostname
+
+# Connect to a server
+> ssh <user>@<hostname>
+> shh tony@stapp01
+# 0R
+> shh tony@stapp01.stratos.xfusioncorp.com
+# here you will prompt to enter "tony" password
+Ir0nM@n
+
+# leave server
+> exit
+```
+
+## Days
 
 - [x] Day 1: Linux User Setup with Non-Interactive Shell
-- [] Day 2: Temporary User Setup with Expiry
+- [x] Day 2: Temporary User Setup with Expiry
+- [] Day 3: Create Subnet
