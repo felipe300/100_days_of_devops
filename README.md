@@ -48,4 +48,5 @@ Ir0nM@n
 
 - [x] Day 1: Linux User Setup with Non-Interactive Shell
 - [x] Day 2: Temporary User Setup with Expiry
-- [] Day 3: Create Subnet
+- [x] Day 3: Secure Root SSH Access
+- [] Day 4: Script Execution Permissions
