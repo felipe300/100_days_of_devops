@@ -50,4 +50,5 @@ Ir0nM@n
 - [x] Day 2: Temporary User Setup with Expiry
 - [x] Day 3: Secure Root SSH Access
 - [x] Day 4: Script Execution Permissions
-- [] Day 5: SElinux Installation and Configuration
+- [x] Day 5: SElinux Installation and Configuration
+- [] Day 6: Create a Cron Job
