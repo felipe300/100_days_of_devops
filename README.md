@@ -52,3 +52,4 @@ Ir0nM@n
 - [x] Day 4: Script Execution Permissions
 - [x] Day 5: SElinux Installation and Configuration
 - [] Day 6: Create a Cron Job
+- [] Day 7: Linux SSH Authentication
