@@ -51,5 +51,6 @@ Ir0nM@n
 - [x] Day 3: Secure Root SSH Access
 - [x] Day 4: Script Execution Permissions
 - [x] Day 5: SElinux Installation and Configuration
-- [] Day 6: Create a Cron Job
-- [] Day 7: Linux SSH Authentication
+- [x] Day 6: Create a Cron Job
+- [x] Day 7: Linux SSH Authentication
+- [] Day 8: Install Ansible
