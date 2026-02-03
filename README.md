@@ -53,4 +53,5 @@ Ir0nM@n
 - [x] Day 5: SElinux Installation and Configuration
 - [x] Day 6: Create a Cron Job
 - [x] Day 7: Linux SSH Authentication
-- [] Day 8: Install Ansible
+- [x] Day 8: Install Ansible
+- [] Day 9: MariaDB Troubleshooting
