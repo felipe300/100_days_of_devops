@@ -12,4 +12,4 @@ sudo pip3 install ansible==4.10.0 # Install Ansible 4.10.0
 ansible --version # Check Ansible version
 ```
 
-**NOTE**:
+**NOTE**: Very straight forward task.

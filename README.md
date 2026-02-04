@@ -54,4 +54,5 @@ Ir0nM@n
 - [x] Day 6: Create a Cron Job
 - [x] Day 7: Linux SSH Authentication
 - [x] Day 8: Install Ansible
-- [] Day 9: MariaDB Troubleshooting
+- [x] Day 9: MariaDB Troubleshooting
+- [] Day 10: Linux Bash Scripts
