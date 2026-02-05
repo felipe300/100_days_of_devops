@@ -21,6 +21,7 @@ sudo journalctl -xeu mariadb.service # Check the journal logs
 cd /var/lib/
 # mysql do not exits only mysqld (they are not the same), so you need to created
 sudo mkdir mysql
+ls -l # Check files permissions
 sudo chown -R mysql:mysql /var/lib/mysql # change group and owner
 
 sudo systemctl restart mariadb

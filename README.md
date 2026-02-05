@@ -55,4 +55,5 @@ Ir0nM@n
 - [x] Day 7: Linux SSH Authentication
 - [x] Day 8: Install Ansible
 - [x] Day 9: MariaDB Troubleshooting
-- [] Day 10: Linux Bash Scripts
+- [x] Day 10: Linux Bash Scripts
+- [] Day 11: Install and Configure Tomcat Server
