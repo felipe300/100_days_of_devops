@@ -56,4 +56,5 @@ Ir0nM@n
 - [x] Day 8: Install Ansible
 - [x] Day 9: MariaDB Troubleshooting
 - [x] Day 10: Linux Bash Scripts
-- [] Day 11: Install and Configure Tomcat Server
+- [x] Day 11: Install and Configure Tomcat Server
+- [] Day 12: Linux Network Services
