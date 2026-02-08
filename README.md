@@ -57,4 +57,6 @@ Ir0nM@n
 - [x] Day 9: MariaDB Troubleshooting
 - [x] Day 10: Linux Bash Scripts
 - [x] Day 11: Install and Configure Tomcat Server
-- [] Day 12: Linux Network Services
+- [x] Day 12: Linux Network Services
+- [x] Day 13: IPtables Installation And Configuration
+- [x] Day 14: Linux Process Troubleshooting
