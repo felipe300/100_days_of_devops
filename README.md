@@ -60,4 +60,5 @@ Ir0nM@n
 - [x] Day 12: Linux Network Services
 - [x] Day 13: IPtables Installation And Configuration
 - [x] Day 14: Linux Process Troubleshooting
-- Day 15: Setup SSL for Nginx
+- [x] Day 15: Setup SSL for Nginx
+- [] Day 16: Install and Configure Nginx as an LBR
