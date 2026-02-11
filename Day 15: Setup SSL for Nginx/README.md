@@ -8,7 +8,7 @@
 
 ```sh
 ssh [user]@[hostname]
-su - # to avoid using sudo and enter the password multiple times. Work as a "super user"
+sudo su - # to avoid using sudo and enter the password multiple times. Work as a "super user"
 
 which nginx # check if nginx is installed
 nginx -v # check if nginx is installed
