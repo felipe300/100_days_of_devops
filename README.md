@@ -62,4 +62,5 @@ Ir0nM@n
 - [x] Day 14: Linux Process Troubleshooting
 - [x] Day 15: Setup SSL for Nginx
 - [x] Day 16: Install and Configure Nginx as an LBR
-- [] Day 17: Install and Configure PostgreSQL
+- [x] Day 17: Install and Configure PostgreSQL
+- [] Day 18: Configure LAMP server
