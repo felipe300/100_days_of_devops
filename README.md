@@ -44,6 +44,10 @@ Ir0nM@n
 > exit
 ```
 
+**Nautilus Infrastructure**
+
+![Nautilus Infrastructure Details](./assets/nautilus_infrastructure.png)
+
 ## Days
 
 - [x] Day 1: Linux User Setup with Non-Interactive Shell
@@ -63,4 +67,6 @@ Ir0nM@n
 - [x] Day 15: Setup SSL for Nginx
 - [x] Day 16: Install and Configure Nginx as an LBR
 - [x] Day 17: Install and Configure PostgreSQL
-- [] Day 18: Configure LAMP server
+- [x] Day 18: Configure LAMP server
+- [x] Day 19: Install and Configure Web Application
+- [] Day 20: Configure Nginx + PHP-FPM Using Unix Sock

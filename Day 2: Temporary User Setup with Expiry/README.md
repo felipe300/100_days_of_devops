@@ -7,11 +7,15 @@
 **Steps**:
 
 ```sh
-ssh tony@stapp01 # Login to Server 1
-sudo useradd -m -e 2027-03-28 ravi # add user expired ravi
-sudo chage ravi -l # check expiration date
-sudo userdel ravi
-sudo rm -rf /home/ravi
+ssh [user]@[hostname] # Login to Server
+sudo su - # work as a super user
+
+useradd -m -e 2027-03-28 ravi # add user expired ravi
+chage ravi -l # check expiration date
+userdel ravi
+rm -rf /home/ravi
+
+exit
 ```
 
 **NOTES**
