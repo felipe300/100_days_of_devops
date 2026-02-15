@@ -69,4 +69,5 @@ Ir0nM@n
 - [x] Day 17: Install and Configure PostgreSQL
 - [x] Day 18: Configure LAMP server
 - [x] Day 19: Install and Configure Web Application
-- [] Day 20: Configure Nginx + PHP-FPM Using Unix Sock
+- [x] Day 20: Configure Nginx + PHP-FPM Using Unix Sock
+- Day 21: Set Up Git Repository on Storage Server
