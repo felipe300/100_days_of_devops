@@ -70,4 +70,5 @@ Ir0nM@n
 - [x] Day 18: Configure LAMP server
 - [x] Day 19: Install and Configure Web Application
 - [x] Day 20: Configure Nginx + PHP-FPM Using Unix Sock
-- Day 21: Set Up Git Repository on Storage Server
+- [x] Day 21: Set Up Git Repository on Storage Server
+- [] Day 22: Clone Git Repository on Storage Server
