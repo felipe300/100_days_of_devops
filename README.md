@@ -72,4 +72,5 @@ Ir0nM@n
 - [x] Day 20: Configure Nginx + PHP-FPM Using Unix Sock
 - [x] Day 21: Set Up Git Repository on Storage Server
 - [x] Day 22: Clone Git Repository on Storage Server
-- [] Day 23: Fork a Git Repository
+- [x] Day 23: Fork a Git Repository
+- [] Day 24: Git Create Branches
