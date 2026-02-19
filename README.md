@@ -73,4 +73,5 @@ Ir0nM@n
 - [x] Day 21: Set Up Git Repository on Storage Server
 - [x] Day 22: Clone Git Repository on Storage Server
 - [x] Day 23: Fork a Git Repository
-- [] Day 24: Git Create Branches
+- [x] Day 24: Git Create Branches
+- [] Day 25: Git Merge Branches
