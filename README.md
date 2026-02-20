@@ -74,4 +74,5 @@ Ir0nM@n
 - [x] Day 22: Clone Git Repository on Storage Server
 - [x] Day 23: Fork a Git Repository
 - [x] Day 24: Git Create Branches
-- [] Day 25: Git Merge Branches
+- [x] Day 25: Git Merge Branches
+- [] Day 26: Git Manage Remotes
