@@ -75,4 +75,5 @@ Ir0nM@n
 - [x] Day 23: Fork a Git Repository
 - [x] Day 24: Git Create Branches
 - [x] Day 25: Git Merge Branches
-- [] Day 26: Git Manage Remotes
+- [x] Day 26: Git Manage Remotes
+- [] Day 27: Git Revert Some Changes
