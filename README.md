@@ -76,4 +76,5 @@ Ir0nM@n
 - [x] Day 24: Git Create Branches
 - [x] Day 25: Git Merge Branches
 - [x] Day 26: Git Manage Remotes
-- [] Day 27: Git Revert Some Changes
+- [x] Day 27: Git Revert Some Changes
+- [] Day 28: Git Cherry Pick
