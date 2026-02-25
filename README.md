@@ -78,4 +78,5 @@ Ir0nM@n
 - [x] Day 26: Git Manage Remotes
 - [x] Day 27: Git Revert Some Changes
 - [x] Day 28: Git Cherry Pick
-- [] Day 29: Manage Git Pull Requests
+- [x] Day 29: Manage Git Pull Requests
+- [] Day 30: Git hard reset
