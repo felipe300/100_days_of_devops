@@ -80,4 +80,5 @@ Ir0nM@n
 - [x] Day 28: Git Cherry Pick
 - [x] Day 29: Manage Git Pull Requests
 - [x] Day 30: Git hard reset
-- [] Day 31: Git Stash
+- [x] Day 31: Git Stash
+- [] Day 32: Git Rebase
