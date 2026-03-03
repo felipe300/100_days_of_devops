@@ -82,4 +82,5 @@ Ir0nM@n
 - [x] Day 30: Git hard reset
 - [x] Day 31: Git Stash
 - [x] Day 32: Git Rebase
-- [] Day 33: Resolve Git Merge Conflicts
+- [x] Day 33: Resolve Git Merge Conflicts
+- [] Day 34: Git Hook
