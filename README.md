@@ -83,4 +83,5 @@ Ir0nM@n
 - [x] Day 31: Git Stash
 - [x] Day 32: Git Rebase
 - [x] Day 33: Resolve Git Merge Conflicts
-- [] Day 34: Git Hook
+- [x] Day 34: Git Hook
+- [] Day 35: Install Docker Packages and Start Docker Service
