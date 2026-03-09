@@ -86,4 +86,5 @@ Ir0nM@n
 - [x] Day 34: Git Hook
 - [x] Day 35: Install Docker Packages and Start Docker Service
 - [x] Day 36: Deploy Nginx Container on Application Server
-- [] Day 37: Copy File to Docker Container
+- [x] Day 37: Copy File to Docker Container
+- [] Day 38: Pull Docker Image
