@@ -88,4 +88,5 @@ Ir0nM@n
 - [x] Day 36: Deploy Nginx Container on Application Server
 - [x] Day 37: Copy File to Docker Container
 - [x] Day 38: Pull Docker Image
-- [] Day 39: Create a Docker Image From Container
+- [x] Day 39: Create a Docker Image From Container
+- [] Day 40: Docker EXEC Operations
