@@ -90,4 +90,6 @@ Ir0nM@n
 - [x] Day 38: Pull Docker Image
 - [x] Day 39: Create a Docker Image From Container
 - [x] Day 40: Docker EXEC Operations
-- [] Day 41: Write a Docker File
+- [x] Day 41: Write a Docker File
+- [x] Day 42: Create a Docker Network
+- [] Day 43: Docker Ports Mapping
