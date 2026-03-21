@@ -92,4 +92,6 @@ Ir0nM@n
 - [x] Day 40: Docker EXEC Operations
 - [x] Day 41: Write a Docker File
 - [x] Day 42: Create a Docker Network
-- [] Day 43: Docker Ports Mapping
+- [x] Day 43: Docker Ports Mapping
+- [x] Day 44: Write a Docker Compose File
+- [] Day 45: Resolve Dockerfile Issues
