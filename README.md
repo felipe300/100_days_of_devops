@@ -94,4 +94,5 @@ Ir0nM@n
 - [x] Day 42: Create a Docker Network
 - [x] Day 43: Docker Ports Mapping
 - [x] Day 44: Write a Docker Compose File
-- [] Day 45: Resolve Dockerfile Issues
+- [x] Day 45: Resolve Dockerfile Issues
+- [] Day 46: Deploy an App on Docker Containers
